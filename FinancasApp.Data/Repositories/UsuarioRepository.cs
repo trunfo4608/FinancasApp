@@ -71,5 +71,16 @@ namespace FinancasApp.Data.Repositories
                        .FirstOrDefault();
             }
         }
+
+
+        public Usuario GetByEmailAndSenha(string email,string senha)
+        {
+            using (var dataContext = new DataContext())
+            {
+                return dataContext.Usuario
+                       .Where(u => u.Email == email && u.Senha == senha)
+                       .FirstOrDefault();
+            }
+        }
     }
 }

@@ -1,0 +1,15 @@
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\bin\Debug\net5.0\FinancasApp.Data.deps.json
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\bin\Debug\net5.0\FinancasApp.Data.runtimeconfig.json
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\bin\Debug\net5.0\FinancasApp.Data.runtimeconfig.dev.json
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\bin\Debug\net5.0\FinancasApp.Data.dll
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\bin\Debug\net5.0\ref\FinancasApp.Data.dll
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\bin\Debug\net5.0\FinancasApp.Data.pdb
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\obj\Debug\net5.0\FinancasApp.Data.csproj.AssemblyReference.cache
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\obj\Debug\net5.0\FinancasApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\obj\Debug\net5.0\FinancasApp.Data.AssemblyInfoInputs.cache
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\obj\Debug\net5.0\FinancasApp.Data.AssemblyInfo.cs
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\obj\Debug\net5.0\FinancasApp.Data.csproj.CoreCompileInputs.cache
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\obj\Debug\net5.0\FinancasApp.Data.dll
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\obj\Debug\net5.0\ref\FinancasApp.Data.dll
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\obj\Debug\net5.0\FinancasApp.Data.pdb
+C:\Projetos C_Sharp\FinancasApp\FinancasApp.Data\obj\Debug\net5.0\FinancasApp.Data.genruntimeconfig.cache

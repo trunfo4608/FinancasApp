@@ -6,7 +6,7 @@ O FinancasApp é um sistema de controle de contas a pagar e contas a receber des
 
 Antes de executar o projeto, verifique se você atende aos seguintes pré-requisitos:
 
-- **Visual Studio 2022:** Baixe e instale o [Visual Studio 2022](https://visualstudio.microsoft.com/pt-br/downloads/).
+- **Visual Studio 2022:** Baixe e instale o [Visual Studio 2019](https://visualstudio.microsoft.com/pt-br/downloads/).
 
 - **SQL Server 2012:** Baixe e instale o [SQL Server 2012](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads).
 
@@ -14,7 +14,7 @@ Antes de executar o projeto, verifique se você atende aos seguintes pré-requis
 
 1. Clone o repositório FinancasApp em sua máquina local.
 
-2. Abra o projeto no Visual Studio 2022.
+2. Abra o projeto no Visual Studio 2019.
 
 3. Abra o arquivo `DataContext.cs` no projeto e modifique a string de conexão para apontar para o seu servidor SQL Server.
 

@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Presentation Layer", "1-P
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Data Acess Layer", "2-Data Acess Layer", "{93C3C022-FB2E-4DEF-A515-E89520EA0091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancasApp.Data", "FinancasApp.Data\FinancasApp.Data.csproj", "{8A7FFE63-16AD-460E-8683-BCE6F2C1033C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinancasApp.Data", "FinancasApp.Data\FinancasApp.Data.csproj", "{8A7FFE63-16AD-460E-8683-BCE6F2C1033C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
